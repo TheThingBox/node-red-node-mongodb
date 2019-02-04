@@ -1,0 +1,59 @@
+{
+  "name": "node-red-node-mongodb",
+  "version": "0.0.14",
+  "description": "Node-RED nodes to talk to an Mongo database",
+  "dependencies": {
+    "mongodb": "^2.2.34"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/node-red/node-red-nodes/tree/master/storage/mongodb"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "node-red",
+    "mongodb"
+  ],
+  "node-red": {
+    "nodes": {
+      "mongo": "66-mongodb.js"
+    }
+  },
+  "author": {
+    "name": "Dave Conway-Jones",
+    "email": "ceejay@vnet.ibm.com",
+    "url": "http://nodered.org"
+  },
+  "_id": "node-red-node-mongodb@0.0.14",
+  "_npmVersion": "5.6.0",
+  "_nodeVersion": "8.9.4",
+  "_npmUser": {
+    "name": "dceejay",
+    "email": "ceejay@vnet.ibm.com"
+  },
+  "maintainers": [
+    {
+      "name": "dceejay",
+      "email": "ceejay@vnet.ibm.com"
+    },
+    {
+      "name": "knolleary",
+      "email": "nick.oleary@gmail.com"
+    }
+  ],
+  "dist": {
+    "integrity": "sha512-hlXhi7+BuQVamJ/y3qxvoGWGReivRtkgPmZy0UEO0gkWAzgjI2OplMfXAYKA0viqQS2Qd4DlPFpap3a4nS9M5w==",
+    "shasum": "ede4df43551b262b3c3d3a55089e5dcea9030ee1",
+    "tarball": "https://registry.npmjs.org/node-red-node-mongodb/-/node-red-node-mongodb-0.0.14.tgz",
+    "fileCount": 6,
+    "unpackedSize": 28930
+  },
+  "directories": {},
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/node-red-node-mongodb_0.0.14_1519922332708_0.5239778694013606"
+  },
+  "_shasum": "ede4df43551b262b3c3d3a55089e5dcea9030ee1",
+  "_resolved": "https://registry.npmjs.org/node-red-node-mongodb/-/node-red-node-mongodb-0.0.14.tgz",
+  "_from": "node-red-node-mongodb@0.0.14"
+}
